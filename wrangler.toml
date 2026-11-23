@@ -1,4 +1,4 @@
 name = "twilight-s"
-main = "_worker.js"
+main = "shadowsocks.js"
 compatibility_date = "2024-10-01"
 keep_vars = true
